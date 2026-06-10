@@ -169,7 +169,6 @@ jupyter notebook notebooks/diabetes_prediction.ipynb
 |:----------:|:-----------------:|
 | User enters 8 health parameters | App displays **Diabetic** or **Not Diabetic** with confidence |
 
-![](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Diabetes%20Prediction%20%5BEND%202%20END%5D/Diabetes-prediction%20deployed/Resource/live1.gif)
 
 ---
 
@@ -198,7 +197,7 @@ jupyter notebook notebooks/diabetes_prediction.ipynb
 
 <div align="center">
 
-Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/Arpan28-dev)
+Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Arpan Chowdhury](https://github.com/Arpan28-dev)
 
 ⭐ Star the main repo if this helped you!
 
