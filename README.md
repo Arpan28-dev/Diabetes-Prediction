@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 Diabetes Prediction — End to End
+# 🩺 Diabetes Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-Web%20App-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -9,7 +9,7 @@
 
 > A full **end-to-end machine learning web application** that predicts the likelihood of diabetes in a patient based on key health diagnostics — from model training to a live Flask deployment.
 
-[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
+[🔙 Back to Main Repository](https://github.com/Arpan28-dev?tab=repositories)
 
 </div>
 
